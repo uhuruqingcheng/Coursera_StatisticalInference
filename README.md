@@ -11,9 +11,9 @@ This is a four-week course. Aug 4th - Sep 5th, 2014.
 
 All code was developed and tested on:
 
-> * MATLAB Version: 7.14.0.739 (R2012a)
+> * R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+> * Platform: i386-w64-mingw32/i386 (32-bit)
 > * Operating System: Microsoft Windows 7 Version 6.1 (Build 7601: Service Pack 1)
-> * Java Version: Java 1.6.0_17-b04 with Sun Microsystems Inc. Java HotSpot(TM) Client VM mixed mode
 
 ## About the project
 
